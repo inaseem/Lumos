@@ -21,6 +21,7 @@ An Android Application Which Is Designed To Help People Communicate With The Dif
  ## Working On
   <ul>
   <li>Integrating A Complete Dictionary Of Signs</li>
+  <li>Integrating Gifs For Better Understanding</li>
   <li>Advanced Context Detection</li>
   <li>More Video's</li>
   </ul>
