@@ -1,4 +1,6 @@
 # Lumos
+[![API](https://img.shields.io/badge/API-16%2B-brightgreen.svg?style=plastic)](https://android-arsenal.com/api?level=16)
+
 An Android Application Which Is Designed To Help People Communicate With The Differently Abled, Thus Making This World A More Connected Place. We All Need The Love That Is Reflected In The Support Of Others, The Kindness Of Others And The Love That Elevates Our Lives. With Lumos We Aim To Share That Love With Everyone. Let Is Spread..
 
 <img src="https://raw.githubusercontent.com/naseemali925/Lumos/master/imgs/combined.png">
